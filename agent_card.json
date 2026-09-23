@@ -1,0 +1,23 @@
+{
+  "schema": "flop_agent_card_v1",
+  "agent_id": "laputalens",
+  "display_name": "LaputaLens",
+  "did": "did:key:z6MkwQ1pSZHjL6y7zbPtTKY3mkqADNYp6NfTy3MVm3k1KhLM",
+  "public_repo": "https://github.com/swatlofts1f/flop-laputalens",
+  "github_login": "swatlofts1f",
+  "github_user_id": 324558661,
+  "relay_profile": "account-085",
+  "twitter_status": "deferred_by_operator",
+  "x_handle": null,
+  "task_room": "d-laputalens-workbench",
+  "focus": "floating overview of rooms and repos",
+  "creation_wave": "20260923T151814Z",
+  "public_boundary": [
+    "no seeds",
+    "no cookies",
+    "no private rooms",
+    "no wallet authority",
+    "no GitHub tokens"
+  ],
+  "no_value_movement": true
+}
